@@ -1,633 +1,702 @@
 {
-    "data": [
-      {
-        "id": "1740767130377929128",
-        "edit_history_tweet_ids": [
-          1740767130377929128
-        ],
-        "classification": "Low Severity",
-        "text": "On 2023-12-03, at 16:27:40 (UTC), there was an earthquake around 15 km E of Tidman, Philippines. The depth of the hypocenter is about 84.7km, and the magnitude of the earthquake is estimated to be about 4.5.\nhttps://t.co/vuyp9sRaV9 https://t.co/SH9pP5p5tV"
-      },
-      {
-        "id": "1740755577733820870",
-        "edit_history_tweet_ids": [
-          1740755577733820870
-        ],
-        "classification": "No Severity",
-        "text": "Lol not the Philippines shaking in earthquake while this banger released https://t.co/72WDc3ByoK"
-      },
-      {
-        "id": "1740738798395212153",
-        "edit_history_tweet_ids": [
-          1740738798395212153
-        ],
-        "classification": "No Severity",
-        "text": "@stats_feed ⚡️The Most Earthquake Vulnerable Places In The World🗺️\n\n1. Beirut, Lebanon 🇱🇧\n2. Tokyo, Japan 🇯🇵\n3. New Delhi, India 🇮🇳\n4. Jakarta, Indonesia 🇮🇩\n5. Manila, Philippines 🇵🇭\n6. Los Angeles, United States 🇺🇸\n7. Quito, Ecuador 🇪🇨\n8. Tehran, Iran 🇮🇷\n9. Istanbul, Turkey 🇹🇷\n10.… https://t.co/ggZ93iB2cF"
-      },
-      {
-        "id": "1740729356560085459",
-        "edit_history_tweet_ids": [
-          1740729356560085459
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
-      },
-      {
-        "id": "1740724760315899911",
-        "edit_history_tweet_ids": [
-          1740724760315899911
-        ],
-        "classification": "Low Severity",
-        "text": "On 2023-12-03, at 05:57:24 (UTC), there was an earthquake around 16 km E of Barcelona, Philippines. The depth of the hypocenter is about 61.8km, and the magnitude of the earthquake is estimated to be about 4.5.\nhttps://t.co/qOacEzYSmn https://t.co/eRvwrTUTQ3"
-      },
-      {
-        "id": "1740718815678468401",
-        "edit_history_tweet_ids": [
-          1740718815678468401
-        ],
-        "classification": "Low Severity",
-        "text": "RT @risklayer_maps: moderate #Earthquake in Davao del Sur, Philippines\nFelt by at least 11.0 m. people.\nMore than 930k people live in regio…"
-      },
-      {
-        "id": "1740718657490256038",
-        "edit_history_tweet_ids": [
-          1740718657490256038
-        ],
-        "classification": "Low Severity",
-        "text": "RT @risklayer_maps: moderate #Earthquake near Surigao del Sur, Philippines\nFelt by at least 6.0 m. people.\n\nhttps://t.co/K9ppDf71j1 https:/…"
-      },
-      {
-        "id": "1740718206116045160",
-        "edit_history_tweet_ids": [
-          1740718206116045160
-        ],
-        "classification": "Low Severity",
-        "text": "RT @risklayer_maps: moderate #Earthquake near Quezon, Philippines\nFelt by at least 7.0 m. people.\nMore than 30k people live in regions, whe…"
-      },
-      {
-        "id": "1740714408568119546",
-        "edit_history_tweet_ids": [
-          1740714408568119546
-        ],
-        "classification": "Low Severity",
-        "text": "On 2023-12-03, at 05:47:53 (UTC), there was an earthquake around 62 km ENE of Hinatuan, Philippines. The depth of the hypocenter is about 53.0km, and the magnitude of the earthquake is estimated to be about 4.8.\nhttps://t.co/GRtrVSXrFM https://t.co/uqB6lIKwvb"
-      },
-      {
-        "id": "1740702794275868805",
-        "edit_history_tweet_ids": [
-          1740702794275868805
-        ],
-        "classification": "Low Severity",
-        "text": "moderate #Earthquake near Quezon, Philippines\nFelt by at least 7.0 m. people.\nMore than 30k people live in regions, where some damage can be expected.\n\nhttps://t.co/x5vv19I8gh https://t.co/uWLpYt5g4j"
-      },
-      {
-        "id": "1740695487827550640",
-        "edit_history_tweet_ids": [
-          1740695487827550640
-        ],
-        "classification": "Low Severity",
-        "text": "moderate #Earthquake near Surigao del Sur, Philippines\nFelt by at least 6.0 m. people.\n\nhttps://t.co/K9ppDf71j1 https://t.co/RMjM9cJZ17"
-      },
-      {
-        "id": "1740695197997044211",
-        "edit_history_tweet_ids": [
-          1740695197997044211
-        ],
-        "classification": "Low Severity",
-        "text": "moderate #Earthquake near Quezon, Philippines\nFelt by at least 6.0 m. people.\nMore than 30k people live in regions, where damage can be expected.\n\nhttps://t.co/x5vv19I8gh https://t.co/v0wwxW9S9D"
-      },
-      {
-        "id": "1740692784300847406",
-        "edit_history_tweet_ids": [
-          1740692784300847406
-        ],
-        "classification": "Low Severity",
-        "text": "moderate #Earthquake in Davao del Sur, Philippines\nFelt by at least 11.0 m. people.\nMore than 930k people live in regions, where damage can be expected.\n\nhttps://t.co/Vd3G8aezIS https://t.co/k9iEtZHkfE"
-      },
-      {
-        "id": "1740684753777426441",
-        "edit_history_tweet_ids": [
-          1740684753777426441
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M3.9 strikes 79 km SE of #Manay (#Philippines) 13 min ago. More info: https://t.co/46x08VH3DW"
-      },
-      {
-        "id": "1740667895741374497",
-        "edit_history_tweet_ids": [
-          1740667895741374497
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M3.2 strikes 116 km NE of #Bislig (#Philippines) 11 min ago. More info: https://t.co/GEWyew1TDN"
-      },
-      {
-        "id": "1740658596948676618",
-        "edit_history_tweet_ids": [
-          1740658596948676618
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
-      },
-      {
-        "id": "1740658046962168190",
-        "edit_history_tweet_ids": [
-          1740658046962168190
-        ],
-        "classification": "High Severity",
-        "text": "@SarahisCensored A significant sized earthquake off the coast of the Philippines several hours before. Maybe something to do with it."
-      },
-      {
-        "id": "1740643029286093105",
-        "edit_history_tweet_ids": [
-          1740643029286093105
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EMSC: 🔔#Earthquake (#lindol) M3.4 strikes 73 km E of #Bislig (#Philippines) 15 min ago. More info: https://t.co/fin0FPPFHl"
-      },
-      {
-        "id": "1740641210350334153",
-        "edit_history_tweet_ids": [
-          1740641210350334153
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M3.4 strikes 73 km E of #Bislig (#Philippines) 15 min ago. More info: https://t.co/fin0FPPFHl"
-      },
-      {
-        "id": "1740632410583171086",
-        "edit_history_tweet_ids": [
-          1740632410583171086
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M3.4 strikes 50 km NE of #Bislig (#Philippines) 18 min ago. More info: https://t.co/3DdJSP4CWn"
-      },
-      {
-        "id": "1740628564058501310",
-        "edit_history_tweet_ids": [
-          1740628564058501310
-        ],
-        "classification": "Low Severity",
-        "text": "RT @raspishakEQ: Preliminary M5.0 #Earthquake\nID: #rs2023znwpbg\n30km/19miles from #Hinatuan, in #Mindanao,Philippines\n2023-12-28 15:48 UTC…"
-      },
-      {
-        "id": "1740626938417545373",
-        "edit_history_tweet_ids": [
-          1740626938417545373
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
-      },
-      {
-        "id": "1740612775943000554",
-        "edit_history_tweet_ids": [
-          1740612775943000554
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M3.6 strikes 62 km NE of #Bislig (#Philippines) 15 min ago. More info: https://t.co/yVltZDPsC6"
-      },
-      {
-        "id": "1740580296104542298",
-        "edit_history_tweet_ids": [
-          1740580296104542298
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
-      },
-      {
-        "id": "1740559614578659618",
-        "edit_history_tweet_ids": [
-          1740559614578659618
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
-      },
-      {
-        "id": "1740554179524034995",
-        "edit_history_tweet_ids": [
-          1740554179524034995
-        ],
-        "classification": "Low Severity",
-        "text": "RT @uisakiriria: I'm deeply concerned about the recent earthquake in the Philippines. My thoughts are with everyone affected by this natura…"
-      },
-      {
-        "id": "1740545374136242332",
-        "edit_history_tweet_ids": [
-          1740545374136242332
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M3.7 strikes 37 km NE of #Bislig (#Philippines) 20 min ago. More info: https://t.co/FR7oonQ0tY"
-      },
-      {
-        "id": "1740522570846515456",
-        "edit_history_tweet_ids": [
-          1740522570846515456
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.1 Philippines: 031 Km N 33° E of Cagwait (Surigao Del Sur) 28 Dec 20:35 UTC - report/info: https://t.co/bF6SWe…"
-      },
-      {
-        "id": "1740522530837008882",
-        "edit_history_tweet_ids": [
-          1740522530837008882
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
-      },
-      {
-        "id": "1740522362184016240",
-        "edit_history_tweet_ids": [
-          1740522362184016240
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
-      },
-      {
-        "id": "1740522335042728345",
-        "edit_history_tweet_ids": [
-          1740522335042728345
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.9 Mindanao, Philippines 28 Dec 15:48 UTC - report/info: https://t.co/qXNFvyv0wx"
-      },
-      {
-        "id": "1740522292030165492",
-        "edit_history_tweet_ids": [
-          1740522292030165492
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.4 Philippines: 007 Km S 80° W of Kawayan (Biliran) 28 Dec 14:17 UTC - report/info: https://t.co/cDdeWWasfs"
-      },
-      {
-        "id": "1740521509721100582",
-        "edit_history_tweet_ids": [
-          1740521509721100582
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant #earthquake of magnitude 5.2 just reported 25 km south of Malita, Philippines - info, user reports and updates: h…"
-      },
-      {
-        "id": "1740521503664562436",
-        "edit_history_tweet_ids": [
-          1740521503664562436
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M5.1 Mindanao, Philippines 8mins ago 28 Dec 01:35 UTC - report/info: https://t.co/pzdgwUKLWw"
-      },
-      {
-        "id": "1740519053196931308",
-        "edit_history_tweet_ids": [
-          1740519053196931308
-        ],
-        "classification": "Low Severity",
-        "text": "On 2023-12-03, at 04:54:28 (UTC), there was an earthquake around 17 km NE of Barcelona, Philippines. The depth of the hypocenter is about 67.1km, and the magnitude of the earthquake is estimated to be about 4.5.\nhttps://t.co/pT3F776lNh https://t.co/NQ0CPQsINu"
-      },
-      {
-        "id": "1740504842207191361",
-        "edit_history_tweet_ids": [
-          1740504842207191361
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
-      },
-      {
-        "id": "1740501804222148804",
-        "edit_history_tweet_ids": [
-          1740501804222148804
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M3.1 strikes 17 km SW of #Sipalay (#Philippines) 25 min ago. More info: https://t.co/rRw5OM8W6M"
-      },
-      {
-        "id": "1740494973009633525",
-        "edit_history_tweet_ids": [
-          1740494973009633525
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.1 Philippines: 031 Km N 33° E of Cagwait (Surigao Del Sur) 28 Dec 20:35 UTC - report/info: https://t.co/bF6SWe…"
-      },
-      {
-        "id": "1740491882868953170",
-        "edit_history_tweet_ids": [
-          1740491882868953170
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
-      },
-      {
-        "id": "1740484418551312553",
-        "edit_history_tweet_ids": [
-          1740484418551312553
-        ],
-        "classification": "Low Severity",
-        "text": "RT @Shadows653: 30 min.ago #earthquake 4.1 has hit Bayabas (Caraga), Philippines, 6.2mi, 3:35 PM EST (EMSC) https://t.co/1dfIMX9TT2 https:/…"
-      },
-      {
-        "id": "1740479420651929847",
-        "edit_history_tweet_ids": [
-          1740479420651929847
-        ],
-        "classification": "Low Severity",
-        "text": "30 min.ago #earthquake 4.1 has hit Bayabas (Caraga), Philippines, 6.2mi, 3:35 PM EST (EMSC) https://t.co/1dfIMX9TT2 https://t.co/k0HiwLqGPa"
-      },
-      {
-        "id": "1740477484876144654",
-        "edit_history_tweet_ids": [
-          1740477484876144654
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EMSC: 🔔#Earthquake (#lindol) M4.3 strikes 29 km NE of #Tago (#Philippines) 21 min ago. More info: https://t.co/LQboJisxZK"
-      },
-      {
-        "id": "1740477436712632442",
-        "edit_history_tweet_ids": [
-          1740477436712632442
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EMSC: 🔔#Earthquake (#lindol) M4.3 strikes 29 km NE of #Tago (#Philippines) 21 min ago. More info: https://t.co/LQboJisxZK"
-      },
-      {
-        "id": "1740476947510005781",
-        "edit_history_tweet_ids": [
-          1740476947510005781
-        ],
-        "classification": "Low Severity",
-        "text": "Dec 28, 2023 20:35:58 UTC\nBayabas, Surigao del Sur, Philippines\n4.3 M - 21 min ago\n#earthquake\nhttps://t.co/5F1rk1sNC3"
-      },
-      {
-        "id": "1740476882955485548",
-        "edit_history_tweet_ids": [
-          1740476882955485548
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M4.3 strikes 29 km NE of #Tago (#Philippines) 21 min ago. More info: https://t.co/LQboJisxZK"
-      },
-      {
-        "id": "1740475671674327167",
-        "edit_history_tweet_ids": [
-          1740475671674327167
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.1 Philippines: 031 Km N 33° E of Cagwait (Surigao Del Sur) 28 Dec 20:35 UTC - report/info: https://t.co/bF6SWe…"
-      },
-      {
-        "id": "1740475420066091400",
-        "edit_history_tweet_ids": [
-          1740475420066091400
-        ],
-        "classification": "Low Severity",
-        "text": "#Earthquake M4.1 Philippines: 031 Km N 33° E of Cagwait (Surigao Del Sur) 28 Dec 20:35 UTC - report/info: https://t.co/bF6SWeX3Aa"
-      },
-      {
-        "id": "1740460312732536955",
-        "edit_history_tweet_ids": [
-          1740460312732536955
-        ],
-        "classification": "No Severity",
-        "text": "https://t.co/ztScxeRJsC"
-      },
-      {
-        "id": "1740458163089113360",
-        "edit_history_tweet_ids": [
-          1740458163089113360
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
-      },
-      {
-        "id": "1740452462249775450",
-        "edit_history_tweet_ids": [
-          1740452462249775450
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
-      },
-      {
-        "id": "1740446296790454682",
-        "edit_history_tweet_ids": [
-          1740446296790454682
-        ],
-        "classification": "Low Severity",
-        "text": "#Earthquake: Mindanao, Philippines at 28 December 2023 06:27 pm (UTC), Magnitude: 4.4 https://t.co/OTBJJTZu2E https://t.co/j21vwXpHfr"
-      },
-      {
-        "id": "1740445636128833839",
-        "edit_history_tweet_ids": [
-          1740445636128833839
-        ],
-        "classification": "Low Severity",
-        "text": "#Earthquake: Mindanao, Philippines at 28 December 2023 03:48 pm (UTC), Magnitude: 5.2 https://t.co/NTQEoZPrMQ https://t.co/cji9dkajQ3"
-      },
-      {
-        "id": "1740443440721392083",
-        "edit_history_tweet_ids": [
-          1740443440721392083
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
-      },
-      {
-        "id": "1740443268725256219",
-        "edit_history_tweet_ids": [
-          1740443268725256219
-        ],
-        "classification": "Low Severity",
-        "text": "Dec 28, 2023 18:27:25 UTC\nHinatuan, Surigao del Sur, Philippines\n4.4 M - 16 min ago\n#earthquake\nhttps://t.co/pltHpI5xVm",
-        "geo": {
-          "place_id": "fb151ef38fa2ac0d"
-        }
-      },
-      {
-        "id": "1740443229148033393",
-        "edit_history_tweet_ids": [
-          1740443229148033393
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
-      },
-      {
-        "id": "1740443182834286671",
-        "edit_history_tweet_ids": [
-          1740443182834286671
-        ],
-        "classification": "Low Severity",
-        "text": "#Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
-      },
-      {
-        "id": "1740443178765811782",
-        "edit_history_tweet_ids": [
-          1740443178765811782
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M3.2 strikes 73 km SE of #Guiuan (#Philippines) 20 min ago. More info: https://t.co/vEuyzDpGsq"
-      },
-      {
-        "id": "1740443173837562343",
-        "edit_history_tweet_ids": [
-          1740443173837562343
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M3.2 strikes 78 km NE of #Bislig (#Philippines) 17 min ago. More info: https://t.co/CM8FckfSQh"
-      },
-      {
-        "id": "1740443169240551480",
-        "edit_history_tweet_ids": [
-          1740443169240551480
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M4.4 strikes 24 km E of #Hinatuan (#Philippines) 15 min ago. More info: https://t.co/nU1ntCeqbO"
-      },
-      {
-        "id": "1740439654938120569",
-        "edit_history_tweet_ids": [
-          1740439654938120569
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
-      },
-      {
-        "id": "1740437206911566140",
-        "edit_history_tweet_ids": [
-          1740437206911566140
-        ],
-        "classification": "Low Severity",
-        "text": "RT @everyEarthquake: USGS reports a M5 earthquake, 29 km NE of Hinatuan, Philippines on 12/28/23 @ 15:48:33 UTC\rhttps://t.co/UgPS2fpROI\r#ea…"
-      },
-      {
-        "id": "1740435971081113639",
-        "edit_history_tweet_ids": [
-          1740435971081113639
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
-      },
-      {
-        "id": "1740434345381302756",
-        "edit_history_tweet_ids": [
-          1740434345381302756
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M3.4 strikes 60 km NE of #Bislig (#Philippines) 11 min ago. More info: https://t.co/s2vPS6UFva"
-      },
-      {
-        "id": "1740432281595166761",
-        "edit_history_tweet_ids": [
-          1740432281595166761
-        ],
-        "classification": "High Severity",
-        "text": "RT @MattWallace888: ⚠️ THIS INSANE FOOTAGE FROM THE EARTHQUAKE THAT JUST HIT THE PHILIPPINES MAKES IT FEEL LIKE THE END TIMES ARE HERE ⚠️ h…"
-      },
-      {
-        "id": "1740430901254004973",
-        "edit_history_tweet_ids": [
-          1740430901254004973
-        ],
-        "classification": "Low Severity",
-        "text": "On 2023-12-03, at 14:51:35 (UTC), there was an earthquake around 78 km E of Marihatag, Philippines. The depth of the hypocenter is about 10.0km, and the magnitude of the earthquake is estimated to be about 4.5.\nhttps://t.co/svSj2bL0lO https://t.co/pHNUv40TwG"
-      },
-      {
-        "id": "1740426374144561189",
-        "edit_history_tweet_ids": [
-          1740426374144561189
-        ],
-        "classification": "Low Severity",
-        "text": "On 2023-12-03, at 14:38:35 (UTC), there was an earthquake around 55 km ESE of Marihatag, Philippines. The depth of the hypocenter is about 54.8km, and the magnitude of the earthquake is estimated to be about 5.1.\nhttps://t.co/3hLjMvRJkk https://t.co/zRPW2MpD11"
-      },
-      {
-        "id": "1740426307442184608",
-        "edit_history_tweet_ids": [
-          1740426307442184608
-        ],
-        "classification": "Low Severity",
-        "text": "🔔#Earthquake (#lindol) M3.1 strikes 129 km SE of #Malita (#Philippines) 20 min ago. More info: https://t.co/rcT6iB6lpP"
-      },
-      {
-        "id": "1740421766709920208",
-        "edit_history_tweet_ids": [
-          1740421766709920208
-        ],
-        "classification": "Low Severity",
-        "text": "RT @QuakesToday: 5.0 magnitude #earthquake. 29 km from #Hinatuan, Caraga, Philippines https://t.co/PvvucSY5eZ"
-      },
-      {
-        "id": "1740418654267904170",
-        "edit_history_tweet_ids": [
-          1740418654267904170
-        ],
-        "classification": "High Severity",
-        "text": "Significant 5.0 Earthquake Strikes Near Bislig City in Surigao del Sur, Caraga, Philippines \n\n#caraga #strike #5 #Caraga #5.0 #significant #earthquake #near #BisligCity #SurigaodelSur #Philippines  \n\nSource: https://t.co/m8iN9Id4Br"
-      },
-      {
-        "id": "1740417886509035633",
-        "edit_history_tweet_ids": [
-          1740417886509035633
-        ],
-        "classification": "Low Severity",
-        "text": "Earthquake M5.0: Hinatuan, Philippines  https://t.co/r36j1UdcCz"
-      },
-      {
-        "id": "1740414566872518889",
-        "edit_history_tweet_ids": [
-          1740414566872518889
-        ],
-        "classification": "Low Severity",
-        "text": "On 2023-12-03, at 14:02:19 (UTC), there was an earthquake around 9 km E of Barcelona, Philippines. The depth of the hypocenter is about 76.8km, and the magnitude of the earthquake is estimated to be about 4.5.\nhttps://t.co/jhmiCW7l0S https://t.co/L1hNmNgbjc"
-      },
-      {
-        "id": "1740414200219074872",
-        "edit_history_tweet_ids": [
-          1740414200219074872
-        ],
-        "classification": "Low Severity",
-        "text": "RT @QuakesToday: 5.0 magnitude #earthquake. 29 km from #Hinatuan, Caraga, Philippines https://t.co/PvvucSY5eZ"
-      },
-      {
-        "id": "1740414177200738363",
-        "edit_history_tweet_ids": [
-          1740414177200738363
-        ],
-        "classification": "High Severity",
-        "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
-      },
-      {
-        "id": "1740414106283450682",
-        "edit_history_tweet_ids": [
-          1740414106283450682
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.9 Mindanao, Philippines 28 Dec 15:48 UTC - report/info: https://t.co/qXNFvyv0wx"
-      },
-      {
-        "id": "1740413956366483718",
-        "edit_history_tweet_ids": [
-          1740413956366483718
-        ],
-        "classification": "Low Severity",
-        "text": "RT @EQAlerts: #Earthquake M4.4 Philippines: 007 Km S 80° W of Kawayan (Biliran) 28 Dec 14:17 UTC - report/info: https://t.co/cDdeWWasfs"
-      }
-    ],
-    "includes": {
-      "places": [
-        {
-          "id": "fb151ef38fa2ac0d",
-          "country": "Republic of the Philippines",
-          "full_name": "Republic of the Philippines",
-          "geo": {
-            "type": "Feature",
-            "bbox": [
-              116.8748754, 4.4073918, 126.7814024,
-              21.1879257
-            ],
-            "properties": {}
-          },
-          "country_code": "PH",
-          "name": "Republic of the Philippines",
-          "place_type": "country"
-        }
-      ]
+  "data": [
+    {
+      "id": "1740767130377929128",
+      "edit_history_tweet_ids": [
+        1740767130377929128
+      ],
+      "classification": "Low Severity",
+      "location": "Tidman",
+      "text": "On 2023-12-03, at 16:27:40 (UTC), there was an earthquake around 15 km E of Tidman, Philippines. The depth of the hypocenter is about 84.7km, and the magnitude of the earthquake is estimated to be about 4.5.\nhttps://t.co/vuyp9sRaV9 https://t.co/SH9pP5p5tV"
     },
-    "meta": {
-      "newest_id": "1740767130377929128",
-      "oldest_id": "1740413956366483718",
-      "result_count": 75,
-      "next_token": "b26v89c19zqg8o3fr5nczzx0djhkbmdvbqotbkcmh3rst"
+    {
+      "id": "1740755577733820870",
+      "edit_history_tweet_ids": [
+        1740755577733820870
+      ],
+      "classification": "No Severity",
+      "text": "Lol not the Philippines shaking in earthquake while this banger released https://t.co/72WDc3ByoK"
+    },
+    {
+      "id": "1740738798395212153",
+      "edit_history_tweet_ids": [
+        1740738798395212153
+      ],
+      "classification": "No Severity",
+      "text": "@stats_feed ⚡️The Most Earthquake Vulnerable Places In The World🗺️\n\n1. Beirut, Lebanon 🇱🇧\n2. Tokyo, Japan 🇯🇵\n3. New Delhi, India 🇮🇳\n4. Jakarta, Indonesia 🇮🇩\n5. Manila, Philippines 🇵🇭\n6. Los Angeles, United States 🇺🇸\n7. Quito, Ecuador 🇪🇨\n8. Tehran, Iran 🇮🇷\n9. Istanbul, Turkey 🇹🇷\n10.… https://t.co/ggZ93iB2cF"
+    },
+    {
+      "id": "1740729356560085459",
+      "edit_history_tweet_ids": [
+        1740729356560085459
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
+    },
+    {
+      "id": "1740724760315899911",
+      "edit_history_tweet_ids": [
+        1740724760315899911
+      ],
+      "classification": "Low Severity",
+      "location": "Barcelona",
+      "text": "On 2023-12-03, at 05:57:24 (UTC), there was an earthquake around 16 km E of Barcelona, Philippines. The depth of the hypocenter is about 61.8km, and the magnitude of the earthquake is estimated to be about 4.5.\nhttps://t.co/qOacEzYSmn https://t.co/eRvwrTUTQ3"
+    },
+    {
+      "id": "1740718815678468401",
+      "edit_history_tweet_ids": [
+        1740718815678468401
+      ],
+      "classification": "Low Severity",
+      "location": "Davao del Sur",
+      "text": "RT @risklayer_maps: moderate #Earthquake in Davao del Sur, Philippines\nFelt by at least 11.0 m. people.\nMore than 930k people live in regio…"
+    },
+    {
+      "id": "1740718657490256038",
+      "edit_history_tweet_ids": [
+        1740718657490256038
+      ],
+      "classification": "Low Severity",
+      "location": "Surigao del Sur",
+      "text": "RT @risklayer_maps: moderate #Earthquake near Surigao del Sur, Philippines\nFelt by at least 6.0 m. people.\n\nhttps://t.co/K9ppDf71j1 https:/…"
+    },
+    {
+      "id": "1740718206116045160",
+      "edit_history_tweet_ids": [
+        1740718206116045160
+      ],
+      "classification": "Low Severity",
+      "location": "Quezon",
+      "text": "RT @risklayer_maps: moderate #Earthquake near Quezon, Philippines\nFelt by at least 7.0 m. people.\nMore than 30k people live in regions, whe…"
+    },
+    {
+      "id": "1740714408568119546",
+      "edit_history_tweet_ids": [
+        1740714408568119546
+      ],
+      "classification": "Low Severity",
+      "location": "Hinatuan",
+      "text": "On 2023-12-03, at 05:47:53 (UTC), there was an earthquake around 62 km ENE of Hinatuan, Philippines. The depth of the hypocenter is about 53.0km, and the magnitude of the earthquake is estimated to be about 4.8.\nhttps://t.co/GRtrVSXrFM https://t.co/uqB6lIKwvb"
+    },
+    {
+      "id": "1740702794275868805",
+      "edit_history_tweet_ids": [
+        1740702794275868805
+      ],
+      "classification": "Low Severity",
+      "location": "Quezon",
+      "text": "moderate #Earthquake near Quezon, Philippines\nFelt by at least 7.0 m. people.\nMore than 30k people live in regions, where some damage can be expected.\n\nhttps://t.co/x5vv19I8gh https://t.co/uWLpYt5g4j"
+    },
+    {
+      "id": "1740695487827550640",
+      "edit_history_tweet_ids": [
+        1740695487827550640
+      ],
+      "classification": "Low Severity",
+      "location": "Surigao del Sur",
+      "text": "moderate #Earthquake near Surigao del Sur, Philippines\nFelt by at least 6.0 m. people.\n\nhttps://t.co/K9ppDf71j1 https://t.co/RMjM9cJZ17"
+    },
+    {
+      "id": "1740695197997044211",
+      "edit_history_tweet_ids": [
+        1740695197997044211
+      ],
+      "classification": "Low Severity",
+      "location": "Quezon",
+      "text": "moderate #Earthquake near Quezon, Philippines\nFelt by at least 6.0 m. people.\nMore than 30k people live in regions, where damage can be expected.\n\nhttps://t.co/x5vv19I8gh https://t.co/v0wwxW9S9D"
+    },
+    {
+      "id": "1740692784300847406",
+      "edit_history_tweet_ids": [
+        1740692784300847406
+      ],
+      "classification": "Low Severity",
+      "location": "Davao del Sur",
+      "text": "moderate #Earthquake in Davao del Sur, Philippines\nFelt by at least 11.0 m. people.\nMore than 930k people live in regions, where damage can be expected.\n\nhttps://t.co/Vd3G8aezIS https://t.co/k9iEtZHkfE"
+    },
+    {
+      "id": "1740684753777426441",
+      "edit_history_tweet_ids": [
+        1740684753777426441
+      ],
+      "classification": "Low Severity",
+      "location": "Manay",
+      "text": "🔔#Earthquake (#lindol) M3.9 strikes 79 km SE of #Manay (#Philippines) 13 min ago. More info: https://t.co/46x08VH3DW"
+    },
+    {
+      "id": "1740667895741374497",
+      "edit_history_tweet_ids": [
+        1740667895741374497
+      ],
+      "classification": "Low Severity",
+      "location": "Bislig",
+      "text": "🔔#Earthquake (#lindol) M3.2 strikes 116 km NE of #Bislig (#Philippines) 11 min ago. More info: https://t.co/GEWyew1TDN"
+    },
+    {
+      "id": "1740658596948676618",
+      "edit_history_tweet_ids": [
+        1740658596948676618
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
+    },
+    {
+      "id": "1740658046962168190",
+      "edit_history_tweet_ids": [
+        1740658046962168190
+      ],
+      "classification": "High Severity",
+      "text": "@SarahisCensored A significant sized earthquake off the coast of the Philippines several hours before. Maybe something to do with it."
+    },
+    {
+      "id": "1740643029286093105",
+      "edit_history_tweet_ids": [
+        1740643029286093105
+      ],
+      "classification": "Low Severity",
+      "location": "Bislig",
+      "text": "RT @EMSC: 🔔#Earthquake (#lindol) M3.4 strikes 73 km E of #Bislig (#Philippines) 15 min ago. More info: https://t.co/fin0FPPFHl"
+    },
+    {
+      "id": "1740641210350334153",
+      "edit_history_tweet_ids": [
+        1740641210350334153
+      ],
+      "classification": "Low Severity",
+      "location": "Bislig",
+      "text": "🔔#Earthquake (#lindol) M3.4 strikes 73 km E of #Bislig (#Philippines) 15 min ago. More info: https://t.co/fin0FPPFHl"
+    },
+    {
+      "id": "1740632410583171086",
+      "edit_history_tweet_ids": [
+        1740632410583171086
+      ],
+      "classification": "Low Severity",
+      "location": "Bislig",
+      "text": "🔔#Earthquake (#lindol) M3.4 strikes 50 km NE of #Bislig (#Philippines) 18 min ago. More info: https://t.co/3DdJSP4CWn"
+    },
+    {
+      "id": "1740628564058501310",
+      "edit_history_tweet_ids": [
+        1740628564058501310
+      ],
+      "classification": "Low Severity",
+      "location": "Hinatuan",
+      "text": "RT @raspishakEQ: Preliminary M5.0 #Earthquake\nID: #rs2023znwpbg\n30km/19miles from #Hinatuan, in #Mindanao,Philippines\n2023-12-28 15:48 UTC…"
+    },
+    {
+      "id": "1740626938417545373",
+      "edit_history_tweet_ids": [
+        1740626938417545373
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
+    },
+    {
+      "id": "1740612775943000554",
+      "edit_history_tweet_ids": [
+        1740612775943000554
+      ],
+      "classification": "Low Severity",
+      "location": "Bislig",
+      "text": "🔔#Earthquake (#lindol) M3.6 strikes 62 km NE of #Bislig (#Philippines) 15 min ago. More info: https://t.co/yVltZDPsC6"
+    },
+    {
+      "id": "1740580296104542298",
+      "edit_history_tweet_ids": [
+        1740580296104542298
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
+    },
+    {
+      "id": "1740559614578659618",
+      "edit_history_tweet_ids": [
+        1740559614578659618
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
+    },
+    {
+      "id": "1740554179524034995",
+      "edit_history_tweet_ids": [
+        1740554179524034995
+      ],
+      "classification": "Low Severity",
+      "text": "RT @uisakiriria: I'm deeply concerned about the recent earthquake in the Philippines. My thoughts are with everyone affected by this natura…"
+    },
+    {
+      "id": "1740545374136242332",
+      "edit_history_tweet_ids": [
+        1740545374136242332
+      ],
+      "classification": "Low Severity",
+      "location": "Bislig",
+      "text": "🔔#Earthquake (#lindol) M3.7 strikes 37 km NE of #Bislig (#Philippines) 20 min ago. More info: https://t.co/FR7oonQ0tY"
+    },
+    {
+      "id": "1740522570846515456",
+      "edit_history_tweet_ids": [
+        1740522570846515456
+      ],
+      "classification": "Low Severity",
+      "location": "Cagwait",
+      "text": "RT @EQAlerts: #Earthquake M4.1 Philippines: 031 Km N 33° E of Cagwait (Surigao Del Sur) 28 Dec 20:35 UTC - report/info: https://t.co/bF6SWe…"
+    },
+    {
+      "id": "1740522530837008882",
+      "edit_history_tweet_ids": [
+        1740522530837008882
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "RT @EQAlerts: #Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
+    },
+    {
+      "id": "1740522362184016240",
+      "edit_history_tweet_ids": [
+        1740522362184016240
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
+    },
+    {
+      "id": "1740522335042728345",
+      "edit_history_tweet_ids": [
+        1740522335042728345
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "RT @EQAlerts: #Earthquake M4.9 Mindanao, Philippines 28 Dec 15:48 UTC - report/info: https://t.co/qXNFvyv0wx"
+    },
+    {
+      "id": "1740522292030165492",
+      "edit_history_tweet_ids": [
+        1740522292030165492
+      ],
+      "classification": "Low Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: #Earthquake M4.4 Philippines: 007 Km S 80° W of Kawayan (Biliran) 28 Dec 14:17 UTC - report/info: https://t.co/cDdeWWasfs"
+    },
+    {
+      "id": "1740521509721100582",
+      "edit_history_tweet_ids": [
+        1740521509721100582
+      ],
+      "classification": "High Severity",
+      "location": "Malita",
+      "text": "RT @EQAlerts: Significant #earthquake of magnitude 5.2 just reported 25 km south of Malita, Philippines - info, user reports and updates: h…"
+    },
+    {
+      "id": "1740521503664562436",
+      "edit_history_tweet_ids": [
+        1740521503664562436
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "RT @EQAlerts: #Earthquake M5.1 Mindanao, Philippines 8mins ago 28 Dec 01:35 UTC - report/info: https://t.co/pzdgwUKLWw"
+    },
+    {
+      "id": "1740519053196931308",
+      "edit_history_tweet_ids": [
+        1740519053196931308
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "On 2023-12-03, at 04:54:28 (UTC), there was an earthquake around 17 km NE of Barcelona, Philippines. The depth of the hypocenter is about 67.1km, and the magnitude of the earthquake is estimated to be about 4.5.\nhttps://t.co/pT3F776lNh https://t.co/NQ0CPQsINu"
+    },
+    {
+      "id": "1740504842207191361",
+      "edit_history_tweet_ids": [
+        1740504842207191361
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
+    },
+    {
+      "id": "1740501804222148804",
+      "edit_history_tweet_ids": [
+        1740501804222148804
+      ],
+      "classification": "Low Severity",
+      "location": "Sipalay",
+      "text": "🔔#Earthquake (#lindol) M3.1 strikes 17 km SW of #Sipalay (#Philippines) 25 min ago. More info: https://t.co/rRw5OM8W6M"
+    },
+    {
+      "id": "1740494973009633525",
+      "edit_history_tweet_ids": [
+        1740494973009633525
+      ],
+      "classification": "Low Severity",
+      "location": "Cagwait",
+      "text": "RT @EQAlerts: #Earthquake M4.1 Philippines: 031 Km N 33° E of Cagwait (Surigao Del Sur) 28 Dec 20:35 UTC - report/info: https://t.co/bF6SWe…"
+    },
+    {
+      "id": "1740491882868953170",
+      "edit_history_tweet_ids": [
+        1740491882868953170
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
+    },
+    {
+      "id": "1740484418551312553",
+      "edit_history_tweet_ids": [
+        1740484418551312553
+      ],
+      "classification": "Low Severity",
+      "location": "Bayabas",
+      "text": "RT @Shadows653: 30 min.ago #earthquake 4.1 has hit Bayabas (Caraga), Philippines, 6.2mi, 3:35 PM EST (EMSC) https://t.co/1dfIMX9TT2 https:/…"
+    },
+    {
+      "id": "1740479420651929847",
+      "edit_history_tweet_ids": [
+        1740479420651929847
+      ],
+      "classification": "Low Severity",
+      "location": "Bayabas",
+      "text": "30 min.ago #earthquake 4.1 has hit Bayabas (Caraga), Philippines, 6.2mi, 3:35 PM EST (EMSC) https://t.co/1dfIMX9TT2 https://t.co/k0HiwLqGPa"
+    },
+    {
+      "id": "1740477484876144654",
+      "edit_history_tweet_ids": [
+        1740477484876144654
+      ],
+      "classification": "Low Severity",
+      "location": "Tago",
+      "text": "RT @EMSC: 🔔#Earthquake (#lindol) M4.3 strikes 29 km NE of #Tago (#Philippines) 21 min ago. More info: https://t.co/LQboJisxZK"
+    },
+    {
+      "id": "1740477436712632442",
+      "edit_history_tweet_ids": [
+        1740477436712632442
+      ],
+      "classification": "Low Severity",
+      "location": "Tago",
+      "text": "RT @EMSC: 🔔#Earthquake (#lindol) M4.3 strikes 29 km NE of #Tago (#Philippines) 21 min ago. More info: https://t.co/LQboJisxZK"
+    },
+    {
+      "id": "1740476947510005781",
+      "edit_history_tweet_ids": [
+        1740476947510005781
+      ],
+      "classification": "Low Severity",
+      "location": "Bayabas",
+      "text": "Dec 28, 2023 20:35:58 UTC\nBayabas, Surigao del Sur, Philippines\n4.3 M - 21 min ago\n#earthquake\nhttps://t.co/5F1rk1sNC3"
+    },
+    {
+      "id": "1740476882955485548",
+      "edit_history_tweet_ids": [
+        1740476882955485548
+      ],
+      "classification": "Low Severity",
+      "location": "Tago",
+      "text": "🔔#Earthquake (#lindol) M4.3 strikes 29 km NE of #Tago (#Philippines) 21 min ago. More info: https://t.co/LQboJisxZK"
+    },
+    {
+      "id": "1740475671674327167",
+      "edit_history_tweet_ids": [
+        1740475671674327167
+      ],
+      "classification": "Low Severity",
+      "location": "Cagwait",
+      "text": "RT @EQAlerts: #Earthquake M4.1 Philippines: 031 Km N 33° E of Cagwait (Surigao Del Sur) 28 Dec 20:35 UTC - report/info: https://t.co/bF6SWe…"
+    },
+    {
+      "id": "1740475420066091400",
+      "edit_history_tweet_ids": [
+        1740475420066091400
+      ],
+      "classification": "Low Severity",
+      "location": "Cagwait",
+      "text": "#Earthquake M4.1 Philippines: 031 Km N 33° E of Cagwait (Surigao Del Sur) 28 Dec 20:35 UTC - report/info: https://t.co/bF6SWeX3Aa"
+    },
+    {
+      "id": "1740460312732536955",
+      "edit_history_tweet_ids": [
+        1740460312732536955
+      ],
+      "classification": "No Severity",
+      "text": "https://t.co/ztScxeRJsC"
+    },
+    {
+      "id": "1740458163089113360",
+      "edit_history_tweet_ids": [
+        1740458163089113360
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "RT @EQAlerts: #Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
+    },
+    {
+      "id": "1740452462249775450",
+      "edit_history_tweet_ids": [
+        1740452462249775450
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "RT @EQAlerts: #Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
+    },
+    {
+      "id": "1740446296790454682",
+      "edit_history_tweet_ids": [
+        1740446296790454682
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "#Earthquake: Mindanao, Philippines at 28 December 2023 06:27 pm (UTC), Magnitude: 4.4 https://t.co/OTBJJTZu2E https://t.co/j21vwXpHfr"
+    },
+    {
+      "id": "1740445636128833839",
+      "edit_history_tweet_ids": [
+        1740445636128833839
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "#Earthquake: Mindanao, Philippines at 28 December 2023 03:48 pm (UTC), Magnitude: 5.2 https://t.co/NTQEoZPrMQ https://t.co/cji9dkajQ3"
+    },
+    {
+      "id": "1740443440721392083",
+      "edit_history_tweet_ids": [
+        1740443440721392083
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "RT @EQAlerts: #Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
+    },
+    {
+      "id": "1740443268725256219",
+      "edit_history_tweet_ids": [
+        1740443268725256219
+      ],
+      "classification": "Low Severity",
+      "location": "Hinatuan",
+      "text": "Dec 28, 2023 18:27:25 UTC\nHinatuan, Surigao del Sur, Philippines\n4.4 M - 16 min ago\n#earthquake\nhttps://t.co/pltHpI5xVm",
+      "geo": {
+        "place_id": "fb151ef38fa2ac0d"
+      }
+    },
+    {
+      "id": "1740443229148033393",
+      "edit_history_tweet_ids": [
+        1740443229148033393
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "RT @EQAlerts: #Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
+    },
+    {
+      "id": "1740443182834286671",
+      "edit_history_tweet_ids": [
+        1740443182834286671
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "#Earthquake M4.4 Mindanao, Philippines 28 Dec 18:27 UTC - report/info: https://t.co/JcGa6c1kxn"
+    },
+    {
+      "id": "1740443178765811782",
+      "edit_history_tweet_ids": [
+        1740443178765811782
+      ],
+      "classification": "Low Severity",
+      "location": "Guiuan",
+      "text": "🔔#Earthquake (#lindol) M3.2 strikes 73 km SE of #Guiuan (#Philippines) 20 min ago. More info: https://t.co/vEuyzDpGsq"
+    },
+    {
+      "id": "1740443173837562343",
+      "edit_history_tweet_ids": [
+        1740443173837562343
+      ],
+      "classification": "Low Severity",
+      "location": "Bislig",
+      "text": "🔔#Earthquake (#lindol) M3.2 strikes 78 km NE of #Bislig (#Philippines) 17 min ago. More info: https://t.co/CM8FckfSQh"
+    },
+    {
+      "id": "1740443169240551480",
+      "edit_history_tweet_ids": [
+        1740443169240551480
+      ],
+      "classification": "Low Severity",
+      "location": "Hinatuan",
+      "text": "🔔#Earthquake (#lindol) M4.4 strikes 24 km E of #Hinatuan (#Philippines) 15 min ago. More info: https://t.co/nU1ntCeqbO"
+    },
+    {
+      "id": "1740439654938120569",
+      "edit_history_tweet_ids": [
+        1740439654938120569
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
+    },
+    {
+      "id": "1740437206911566140",
+      "edit_history_tweet_ids": [
+        1740437206911566140
+      ],
+      "classification": "Low Severity",
+      "location": "Hinatuan",
+      "text": "RT @everyEarthquake: USGS reports a M5 earthquake, 29 km NE of Hinatuan, Philippines on 12/28/23 @ 15:48:33 UTC\rhttps://t.co/UgPS2fpROI\r#ea…"
+    },
+    {
+      "id": "1740435971081113639",
+      "edit_history_tweet_ids": [
+        1740435971081113639
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
+    },
+    {
+      "id": "1740434345381302756",
+      "edit_history_tweet_ids": [
+        1740434345381302756
+      ],
+      "classification": "Low Severity",
+      "location": "Bislig",
+      "text": "🔔#Earthquake (#lindol) M3.4 strikes 60 km NE of #Bislig (#Philippines) 11 min ago. More info: https://t.co/s2vPS6UFva"
+    },
+    {
+      "id": "1740432281595166761",
+      "edit_history_tweet_ids": [
+        1740432281595166761
+      ],
+      "classification": "High Severity",
+      "text": "RT @MattWallace888: ⚠️ THIS INSANE FOOTAGE FROM THE EARTHQUAKE THAT JUST HIT THE PHILIPPINES MAKES IT FEEL LIKE THE END TIMES ARE HERE ⚠️ h…"
+    },
+    {
+      "id": "1740430901254004973",
+      "edit_history_tweet_ids": [
+        1740430901254004973
+      ],
+      "classification": "Low Severity",
+      "location": "Marihatag",
+      "text": "On 2023-12-03, at 14:51:35 (UTC), there was an earthquake around 78 km E of Marihatag, Philippines. The depth of the hypocenter is about 10.0km, and the magnitude of the earthquake is estimated to be about 4.5.\nhttps://t.co/svSj2bL0lO https://t.co/pHNUv40TwG"
+    },
+    {
+      "id": "1740426374144561189",
+      "edit_history_tweet_ids": [
+        1740426374144561189
+      ],
+      "classification": "Low Severity",
+      "location": "Marihatag",
+      "text": "On 2023-12-03, at 14:38:35 (UTC), there was an earthquake around 55 km ESE of Marihatag, Philippines. The depth of the hypocenter is about 54.8km, and the magnitude of the earthquake is estimated to be about 5.1.\nhttps://t.co/3hLjMvRJkk https://t.co/zRPW2MpD11"
+    },
+    {
+      "id": "1740426307442184608",
+      "edit_history_tweet_ids": [
+        1740426307442184608
+      ],
+      "classification": "Low Severity",
+      "location": "Malita",
+      "text": "🔔#Earthquake (#lindol) M3.1 strikes 129 km SE of #Malita (#Philippines) 20 min ago. More info: https://t.co/rcT6iB6lpP"
+    },
+    {
+      "id": "1740421766709920208",
+      "edit_history_tweet_ids": [
+        1740421766709920208
+      ],
+      "classification": "Low Severity",
+      "location": "Caraga",
+      "text": "RT @QuakesToday: 5.0 magnitude #earthquake. 29 km from #Hinatuan, Caraga, Philippines https://t.co/PvvucSY5eZ"
+    },
+    {
+      "id": "1740418654267904170",
+      "edit_history_tweet_ids": [
+        1740418654267904170
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "Significant 5.0 Earthquake Strikes Near Bislig City in Surigao del Sur, Caraga, Philippines \n\n#caraga #strike #5 #Caraga #5.0 #significant #earthquake #near #BisligCity #SurigaodelSur #Philippines  \n\nSource: https://t.co/m8iN9Id4Br"
+    },
+    {
+      "id": "1740417886509035633",
+      "edit_history_tweet_ids": [
+        1740417886509035633
+      ],
+      "classification": "Low Severity",
+      "location": "Hinatuan",
+      "text": "Earthquake M5.0: Hinatuan, Philippines  https://t.co/r36j1UdcCz"
+    },
+    {
+      "id": "1740414566872518889",
+      "edit_history_tweet_ids": [
+        1740414566872518889
+      ],
+      "classification": "Low Severity",
+      "location": "Barcelona",
+      "text": "On 2023-12-03, at 14:02:19 (UTC), there was an earthquake around 9 km E of Barcelona, Philippines. The depth of the hypocenter is about 76.8km, and the magnitude of the earthquake is estimated to be about 4.5.\nhttps://t.co/jhmiCW7l0S https://t.co/L1hNmNgbjc"
+    },
+    {
+      "id": "1740414200219074872",
+      "edit_history_tweet_ids": [
+        1740414200219074872
+      ],
+      "classification": "Low Severity",
+      "location": "Hinatuan",
+      "text": "RT @QuakesToday: 5.0 magnitude #earthquake. 29 km from #Hinatuan, Caraga, Philippines https://t.co/PvvucSY5eZ"
+    },
+    {
+      "id": "1740414177200738363",
+      "edit_history_tweet_ids": [
+        1740414177200738363
+      ],
+      "classification": "High Severity",
+      "location": "Bislig",
+      "text": "RT @EQAlerts: Significant 5.0 #quake hits near Bislig City, Surigao del Sur, Caraga, Philippines - info, user reports and updates: https://…"
+    },
+    {
+      "id": "1740414106283450682",
+      "edit_history_tweet_ids": [
+        1740414106283450682
+      ],
+      "classification": "Low Severity",
+      "location": "Mindanao",
+      "text": "RT @EQAlerts: #Earthquake M4.9 Mindanao, Philippines 28 Dec 15:48 UTC - report/info: https://t.co/qXNFvyv0wx"
+    },
+    {
+      "id": "1740413956366483718",
+      "edit_history_tweet_ids": [
+        1740413956366483718
+      ],
+      "classification": "Low Severity",
+      "location": "Kawayan",
+      "text": "RT @EQAlerts: #Earthquake M4.4 Philippines: 007 Km S 80° W of Kawayan (Biliran) 28 Dec 14:17 UTC - report/info: https://t.co/cDdeWWasfs"
     }
+  ],
+  "includes": {
+    "places": [
+      {
+        "id": "fb151ef38fa2ac0d",
+        "country": "Republic of the Philippines",
+        "full_name": "Republic of the Philippines",
+        "geo": {
+          "type": "Feature",
+          "bbox": [
+            116.8748754, 4.4073918, 126.7814024,
+            21.1879257
+          ],
+          "properties": {}
+        },
+        "country_code": "PH",
+        "name": "Republic of the Philippines",
+        "place_type": "country"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1740767130377929128",
+    "oldest_id": "1740413956366483718",
+    "result_count": 75,
+    "next_token": "b26v89c19zqg8o3fr5nczzx0djhkbmdvbqotbkcmh3rst"
   }
+}
